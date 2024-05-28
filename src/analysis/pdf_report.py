@@ -5,7 +5,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Table, TableStyle, 
 from reportlab.lib.units import inch
 from reportlab.lib import colors
 import matplotlib.pyplot as plt
-from . import plot_data
+from plots import plot_data
 
 def save_results_to_pdf(summary, interpretations, results, output_file):
     doc = SimpleDocTemplate(output_file, pagesize=letter)
@@ -65,13 +65,13 @@ def save_results_to_pdf(summary, interpretations, results, output_file):
         elements.append(Spacer(1, 12))
     
     # Add significance plots
-    plot_data.plot_significance(results)
-    plt.savefig("significance_plot.png")
-    elements.append(Paragraph("Significance Plots", styles['Heading2']))
-    elements.append(Spacer(1, 12))
-    elements.append(Paragraph("The following plots show the p-values over time for different tests.", styles['Normal']))
-    elements.append(Spacer(1, 12))
-    elements.append(Image("significance_plot.png", width=6*inch, height=3*inch))
+    # plot_data.plot_significance(results)
+    # plt.savefig("significance_plot.png")
+    # elements.append(Paragraph("Significance Plots", styles['Heading2']))
+    # elements.append(Spacer(1, 12))
+    # elements.append(Paragraph("The following plots show the p-values over time for different tests.", styles['Normal']))
+    # elements.append(Spacer(1, 12))
+    # elements.append(Image("significance_plot.png", width=6*inch, height=3*inch))
     
     doc.build(elements)
 

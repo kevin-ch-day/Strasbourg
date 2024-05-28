@@ -3,8 +3,9 @@
 from scipy.stats import ttest_rel, wilcoxon, pearsonr, mannwhitneyu
 
 # Custom Modules
-from . import plot_data, StockAnalysisResults
+from . import StockAnalysisResults
 from utils import app_utils
+from plots import plot_data
 
 def prepare_data(surrounding_data):
     """
@@ -217,9 +218,9 @@ def perform_t_test_analysis(company_id, disclosure_date, surrounding_data):
 
     results.display_results()
 
-    if plotData:
-        plot_data.plot_time_series(surrounding_data, company_id)
-        plot_data.plot_histograms(surrounding_data)
-        plot_data.plot_correlation_matrix(surrounding_data)
+    # if plotData:
+    #     plot_data.plot_time_series(surrounding_data, company_id)
+    #     plot_data.plot_histograms(surrounding_data)
+    #     plot_data.plot_correlation_matrix(surrounding_data)
 
     return statistical_results
