@@ -4,7 +4,7 @@ import os
 
 from utils import display_utils, app_utils
 from database import db_functions
-from . import fetch_disclosure_dates as fetch_functions, static_analysis_utils, overall_results
+from . import fetch_disclosure_dates as fetch_functions, static_analysis_utils, interpretation_utils, pdf_report
 
 def fetch_and_process_company_info():
     """
@@ -96,8 +96,8 @@ def perform_analysis(company_id, dates, availability):
     for result in analysis_results:
         print(result['test_results'])
 
-    # Analyze and display results using overall_results module
-    overall_results.analyze_results([result['test_results'] for result in analysis_results])
+    # Analyze and display results using pdf_report module
+    pdf_report.analyze_results([result['test_results'] for result in analysis_results])
 
     # Export results to Excel
     export_results_to_excel(analysis_results, company_id)
@@ -149,4 +149,3 @@ def stock_analysis_main():
 
     except Exception as e:
         print(f"An error occurred during stock analysis: {e}")
-
