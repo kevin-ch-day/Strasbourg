@@ -1,0 +1,3588 @@
+2024-05-07 11:46:25,082 - database - ERROR - Error: Could not make connection to the MySQL database: 2003: Can't connect to MySQL server on 'localhost:5432' (10061 No connection could be made because the target machine actively refused it)
+2024-05-07 11:47:39,634 - database - ERROR - Error: Could not make connection to the MySQL database: 2003: Can't connect to MySQL server on 'localhost:5432' (10061 No connection could be made because the target machine actively refused it)
+2024-05-07 11:47:51,724 - database - INFO - Database connection successful
+2024-05-07 11:47:51,725 - database - INFO - Query results fetched successfully
+2024-05-07 11:47:51,725 - database - INFO - Database connection closed
+2024-05-07 12:02:12,566 - database - INFO - Database connection successful
+2024-05-07 12:02:12,567 - database - INFO - Query results fetched successfully
+2024-05-07 12:02:12,567 - database - INFO - Database connection closed
+2024-05-07 12:03:20,394 - database - INFO - Database connection successful
+2024-05-07 12:03:20,396 - database - INFO - Query results fetched successfully
+2024-05-07 12:03:20,397 - database - INFO - Database connection closed
+2024-05-07 12:04:03,429 - database - INFO - Database connection successful
+2024-05-07 12:04:03,430 - database - INFO - Query results fetched successfully
+2024-05-07 12:04:03,431 - database - INFO - Database connection closed
+2024-05-07 12:05:32,380 - database - INFO - Database connection successful
+2024-05-07 12:05:32,381 - database - INFO - Query results fetched successfully
+2024-05-07 12:05:32,382 - database - INFO - Database connection closed
+2024-05-07 12:06:23,657 - database - INFO - Database connection successful
+2024-05-07 12:06:23,658 - database - INFO - Query results fetched successfully
+2024-05-07 12:06:23,658 - database - INFO - Database connection closed
+2024-05-07 12:07:26,101 - database - INFO - Database connection successful
+2024-05-07 12:07:26,102 - database - INFO - Query results fetched successfully
+2024-05-07 12:07:26,102 - database - INFO - Database connection closed
+2024-05-07 12:07:58,539 - database - INFO - Database connection successful
+2024-05-07 12:07:58,541 - database - INFO - Query results fetched successfully
+2024-05-07 12:07:58,541 - database - INFO - Database connection closed
+2024-05-07 12:23:23,973 - database - INFO - Database connection successful
+2024-05-07 12:23:23,974 - database - INFO - Query results fetched successfully
+2024-05-07 12:23:23,974 - database - INFO - Database connection closed
+2024-05-07 12:23:45,034 - database - INFO - Database connection successful
+2024-05-07 12:23:45,035 - database - INFO - Query results fetched successfully
+2024-05-07 12:23:45,035 - database - INFO - Database connection closed
+2024-05-07 12:24:04,534 - database - INFO - Database connection successful
+2024-05-07 12:24:04,535 - database - INFO - Query results fetched successfully
+2024-05-07 12:24:04,535 - database - INFO - Database connection closed
+2024-05-07 12:25:29,120 - database - INFO - Database connection successful
+2024-05-07 12:25:29,121 - database - INFO - Query results fetched successfully
+2024-05-07 12:25:29,121 - database - INFO - Database connection closed
+2024-05-07 12:25:31,966 - database - INFO - Database connection successful
+2024-05-07 12:25:31,967 - database - INFO - Query results fetched successfully
+2024-05-07 12:25:31,968 - database - INFO - Database connection closed
+2024-05-07 12:29:33,109 - database - INFO - Database connection successful
+2024-05-07 12:29:33,109 - database - INFO - Query results fetched successfully
+2024-05-07 12:29:33,109 - database - INFO - Database connection closed
+2024-05-07 12:29:34,758 - database - INFO - Database connection successful
+2024-05-07 12:29:34,760 - database - INFO - Query results fetched successfully
+2024-05-07 12:29:34,760 - database - INFO - Database connection closed
+2024-05-07 12:36:11,188 - database - INFO - Database connection successful
+2024-05-07 12:36:11,188 - database - INFO - Query results fetched successfully
+2024-05-07 12:36:11,189 - database - INFO - Database connection closed
+2024-05-07 12:36:11,997 - database - INFO - Database connection successful
+2024-05-07 12:36:11,998 - database - INFO - Query results fetched successfully
+2024-05-07 12:36:11,998 - database - INFO - Database connection closed
+2024-05-07 12:37:17,979 - database - INFO - Database connection successful
+2024-05-07 12:37:17,981 - database - INFO - Query results fetched successfully
+2024-05-07 12:37:17,981 - database - INFO - Database connection closed
+2024-05-07 12:37:18,800 - database - INFO - Database connection successful
+2024-05-07 12:37:18,802 - database - INFO - Query results fetched successfully
+2024-05-07 12:37:18,802 - database - INFO - Database connection closed
+2024-05-07 12:38:17,939 - database - INFO - Database connection successful
+2024-05-07 12:38:17,940 - database - INFO - Query results fetched successfully
+2024-05-07 12:38:17,940 - database - INFO - Database connection closed
+2024-05-07 12:38:18,848 - database - INFO - Database connection successful
+2024-05-07 12:38:18,849 - database - INFO - Query results fetched successfully
+2024-05-07 12:38:18,850 - database - INFO - Database connection closed
+2024-05-07 12:59:53,186 - database - INFO - Database connection successful
+2024-05-07 12:59:53,188 - database - INFO - Query results fetched successfully
+2024-05-07 12:59:53,188 - database - INFO - Database connection closed
+2024-05-07 12:59:54,942 - database - INFO - Database connection successful
+2024-05-07 12:59:54,944 - database - INFO - Query results fetched successfully
+2024-05-07 12:59:54,944 - database - INFO - Database connection closed
+2024-05-07 13:17:08,419 - database - INFO - Database connection successful
+2024-05-07 13:17:08,420 - database - INFO - Query results fetched successfully
+2024-05-07 13:17:08,421 - database - INFO - Database connection closed
+2024-05-07 13:18:47,594 - database - INFO - Database connection successful
+2024-05-07 13:18:47,595 - database - INFO - Query results fetched successfully
+2024-05-07 13:18:47,596 - database - INFO - Database connection closed
+2024-05-07 13:18:48,519 - database - INFO - Database connection successful
+2024-05-07 13:18:48,520 - database - INFO - Query results fetched successfully
+2024-05-07 13:18:48,520 - database - INFO - Database connection closed
+2024-05-07 13:18:48,523 - database - INFO - Database connection successful
+2024-05-07 13:18:48,523 - database - INFO - Query results fetched successfully
+2024-05-07 13:18:48,523 - database - INFO - Database connection closed
+2024-05-07 13:22:26,952 - database - INFO - Database connection successful
+2024-05-07 13:22:26,953 - database - INFO - Query results fetched successfully
+2024-05-07 13:22:26,953 - database - INFO - Database connection closed
+2024-05-07 13:22:27,997 - database - INFO - Database connection successful
+2024-05-07 13:22:27,998 - database - INFO - Query results fetched successfully
+2024-05-07 13:22:27,998 - database - INFO - Database connection closed
+2024-05-07 13:22:28,001 - database - INFO - Database connection successful
+2024-05-07 13:22:28,002 - database - INFO - Query results fetched successfully
+2024-05-07 13:22:28,002 - database - INFO - Database connection closed
+2024-05-07 13:23:35,967 - database - INFO - Database connection successful
+2024-05-07 13:23:35,968 - database - INFO - Query results fetched successfully
+2024-05-07 13:23:35,968 - database - INFO - Database connection closed
+2024-05-07 13:23:37,141 - database - INFO - Database connection successful
+2024-05-07 13:23:37,142 - database - INFO - Query results fetched successfully
+2024-05-07 13:23:37,142 - database - INFO - Database connection closed
+2024-05-07 13:23:37,145 - database - INFO - Database connection successful
+2024-05-07 13:23:37,145 - database - INFO - Query results fetched successfully
+2024-05-07 13:23:37,146 - database - INFO - Database connection closed
+2024-05-07 13:26:17,408 - database - INFO - Database connection successful
+2024-05-07 13:26:17,409 - database - INFO - Query results fetched successfully
+2024-05-07 13:26:17,410 - database - INFO - Database connection closed
+2024-05-07 13:26:18,716 - database - INFO - Database connection successful
+2024-05-07 13:26:18,717 - database - INFO - Query results fetched successfully
+2024-05-07 13:26:18,717 - database - INFO - Database connection closed
+2024-05-07 13:26:18,719 - database - INFO - Database connection successful
+2024-05-07 13:26:18,720 - database - INFO - Query results fetched successfully
+2024-05-07 13:26:18,720 - database - INFO - Database connection closed
+2024-05-07 16:16:25,170 - database - INFO - Database connection successful
+2024-05-07 16:16:25,171 - database - INFO - Query results fetched successfully
+2024-05-07 16:16:25,171 - database - INFO - Database connection closed
+2024-05-07 16:16:31,408 - database - INFO - Database connection successful
+2024-05-07 16:16:31,409 - database - INFO - Query results fetched successfully
+2024-05-07 16:16:31,410 - database - INFO - Database connection closed
+2024-05-07 16:16:47,232 - database - INFO - Database connection successful
+2024-05-07 16:16:47,233 - database - INFO - Query results fetched successfully
+2024-05-07 16:16:47,234 - database - INFO - Database connection closed
+2024-05-07 16:17:26,414 - database - INFO - Database connection successful
+2024-05-07 16:17:26,415 - database - INFO - Query results fetched successfully
+2024-05-07 16:17:26,416 - database - INFO - Database connection closed
+2024-05-07 16:17:53,757 - database - INFO - Database connection successful
+2024-05-07 16:17:53,758 - database - INFO - Query results fetched successfully
+2024-05-07 16:17:53,758 - database - INFO - Database connection closed
+2024-05-07 16:18:10,916 - database - INFO - Database connection successful
+2024-05-07 16:18:10,917 - database - INFO - Query results fetched successfully
+2024-05-07 16:18:10,918 - database - INFO - Database connection closed
+2024-05-07 16:31:46,229 - database - INFO - Database connection successful
+2024-05-07 16:31:46,230 - database - INFO - Query results fetched successfully
+2024-05-07 16:31:46,230 - database - INFO - Database connection closed
+2024-05-07 16:31:47,353 - database - INFO - Database connection successful
+2024-05-07 16:31:47,354 - database - INFO - Query results fetched successfully
+2024-05-07 16:31:47,354 - database - INFO - Database connection closed
+2024-05-07 16:31:47,357 - database - INFO - Database connection successful
+2024-05-07 16:31:47,359 - database - INFO - Query results fetched successfully
+2024-05-07 16:31:47,359 - database - INFO - Database connection closed
+2024-05-07 17:08:24,099 - database - INFO - Database connection successful
+2024-05-07 17:08:24,100 - database - INFO - Query results fetched successfully
+2024-05-07 17:08:24,101 - database - INFO - Database connection closed
+2024-05-07 17:08:24,856 - database - INFO - Database connection successful
+2024-05-07 17:08:24,857 - database - INFO - Query results fetched successfully
+2024-05-07 17:08:24,857 - database - INFO - Database connection closed
+2024-05-07 17:08:24,860 - database - INFO - Database connection successful
+2024-05-07 17:08:24,861 - database - INFO - Query results fetched successfully
+2024-05-07 17:08:24,862 - database - INFO - Database connection closed
+2024-05-07 17:08:33,660 - database - INFO - Database connection successful
+2024-05-07 17:08:33,661 - database - INFO - Query results fetched successfully
+2024-05-07 17:08:33,661 - database - INFO - Database connection closed
+2024-05-07 17:08:35,047 - database - INFO - Database connection successful
+2024-05-07 17:08:35,048 - database - INFO - Query results fetched successfully
+2024-05-07 17:08:35,048 - database - INFO - Database connection closed
+2024-05-07 17:08:35,050 - database - INFO - Database connection successful
+2024-05-07 17:08:35,051 - database - INFO - Query results fetched successfully
+2024-05-07 17:08:35,051 - database - INFO - Database connection closed
+2024-05-08 09:00:55,202 - database - INFO - Database connection successful
+2024-05-08 09:00:55,204 - database - INFO - Query results fetched successfully
+2024-05-08 09:00:55,204 - database - INFO - Database connection closed
+2024-05-08 09:01:00,235 - database - INFO - Database connection successful
+2024-05-08 09:01:00,237 - database - INFO - Query results fetched successfully
+2024-05-08 09:01:00,237 - database - INFO - Database connection closed
+2024-05-08 09:01:00,239 - database - INFO - Database connection successful
+2024-05-08 09:01:00,240 - database - INFO - Query results fetched successfully
+2024-05-08 09:01:00,240 - database - INFO - Database connection closed
+2024-05-13 12:33:52,945 - database - INFO - Database connection successful
+2024-05-13 12:33:52,947 - database - INFO - Query results fetched successfully
+2024-05-13 12:33:52,947 - database - INFO - Database connection closed
+2024-05-13 13:32:54,365 - database - INFO - Database connection successful
+2024-05-13 13:32:54,367 - database - ERROR - Error: Failed to execute query: Unread result found
+2024-05-13 13:32:54,368 - database - INFO - Database connection closed
+2024-05-13 13:35:55,970 - database - INFO - Database connection successful
+2024-05-13 13:35:55,971 - database - ERROR - Error: Failed to execute query: Unread result found
+2024-05-13 13:35:55,972 - database - INFO - Database connection closed
+2024-05-13 13:39:09,887 - database - INFO - Database connection successful
+2024-05-13 13:39:09,888 - database - ERROR - Error: Failed to execute query: Unread result found
+2024-05-13 13:39:09,889 - database - INFO - Database connection closed
+2024-05-13 13:42:37,955 - database - INFO - Database connection successful
+2024-05-13 13:42:37,955 - database - INFO - Database connection closed
+2024-05-13 13:44:52,840 - database - INFO - Database connection successful
+2024-05-13 13:44:52,841 - database - INFO - Database connection closed
+2024-05-13 14:11:09,098 - database - INFO - Database connection successful
+2024-05-13 14:11:09,099 - database - ERROR - Error executing query: Unread result found
+2024-05-13 14:11:09,100 - database - INFO - Database connection closed
+2024-05-13 14:11:09,100 - database - ERROR - Exception occurred: DatabaseConnectionError: Error executing query: Unread result found
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 44, in execute_query
+    self.connection.commit()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1283, in commit
+    self._execute_query("COMMIT")
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1301, in _execute_query
+    self.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 42, in execute_query
+    with self.connection.cursor() as cursor:
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\abstracts.py", line 2191, in __exit__
+    self.close()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\cursor.py", line 525, in close
+    self._connection.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_functions.py", line 12, in execute_query
+    cursor = db.execute_query(query, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 49, in execute_query
+    raise db_conn_err.DatabaseConnectionError(f"Error executing query: {e}")
+database.db_conn_err.DatabaseConnectionError: DatabaseConnectionError: Error executing query: Unread result found
+2024-05-13 14:20:38,969 - database - INFO - Database connection successful
+2024-05-13 14:20:38,970 - database - ERROR - Error executing query: Unread result found
+2024-05-13 14:20:38,971 - database - INFO - Database connection closed
+2024-05-13 14:20:38,971 - database - ERROR - Exception occurred: DatabaseConnectionError: Error executing query: Unread result found
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 44, in execute_query
+    self.connection.commit()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1283, in commit
+    self._execute_query("COMMIT")
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1301, in _execute_query
+    self.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 42, in execute_query
+    with self.connection.cursor() as cursor:
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\abstracts.py", line 2191, in __exit__
+    self.close()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\cursor.py", line 525, in close
+    self._connection.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_functions.py", line 12, in execute_query
+    cursor = db.execute_query(query, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 49, in execute_query
+    raise db_conn_err.DatabaseConnectionError(f"Error executing query: {e}")
+database.db_conn_err.DatabaseConnectionError: DatabaseConnectionError: Error executing query: Unread result found
+2024-05-13 14:26:11,388 - database - INFO - Database connection successful
+2024-05-13 14:26:11,390 - database - ERROR - Error executing query: Unread result found
+2024-05-13 14:26:11,391 - database - INFO - Database connection closed
+2024-05-13 14:26:11,391 - database - ERROR - Exception occurred: DatabaseConnectionError: Error executing query: Unread result found
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 44, in execute_query
+    self.connection.commit()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1283, in commit
+    self._execute_query("COMMIT")
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1301, in _execute_query
+    self.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 42, in execute_query
+    with self.connection.cursor() as cursor:
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\abstracts.py", line 2191, in __exit__
+    self.close()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\cursor.py", line 525, in close
+    self._connection.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_functions.py", line 12, in execute_query
+    cursor = db.execute_query(query, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 49, in execute_query
+    raise db_conn_err.DatabaseConnectionError(f"Error executing query: {e}")
+database.db_conn_err.DatabaseConnectionError: DatabaseConnectionError: Error executing query: Unread result found
+2024-05-13 14:27:47,886 - database - INFO - Database connection successful
+2024-05-13 14:27:47,887 - database - ERROR - Error executing query: Unread result found
+2024-05-13 14:27:47,888 - database - INFO - Database connection closed
+2024-05-13 14:27:47,888 - database - ERROR - Exception occurred: DatabaseConnectionError: Error executing query: Unread result found
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 44, in execute_query
+    self.connection.commit()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1283, in commit
+    self._execute_query("COMMIT")
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1301, in _execute_query
+    self.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 42, in execute_query
+    with self.connection.cursor() as cursor:
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\abstracts.py", line 2191, in __exit__
+    self.close()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\cursor.py", line 525, in close
+    self._connection.handle_unread_result()
+  File "C:\Users\Kevin\AppData\Roaming\Python\Python312\site-packages\mysql\connector\connection.py", line 1543, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_functions.py", line 13, in execute_query
+    cursor = db.execute_query(query, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_connection.py", line 49, in execute_query
+    raise db_conn_err.DatabaseConnectionError(f"Error executing query: {e}")
+database.db_conn_err.DatabaseConnectionError: DatabaseConnectionError: Error executing query: Unread result found
+2024-05-13 14:41:09,839 - database - INFO - Database connection successful
+2024-05-13 14:41:09,841 - database - INFO - Query executed and results fetched successfully: 
+        SELECT Date, 
+               CompanyID AS 'Company ID', 
+               Open AS 'Stock Open', 
+               Close AS 'Stock Close', 
+               Volume AS 'Stock Volume'
+        FROM stock_data
+        WHERE CompanyID = %s
+        ORDER BY Date;
+    
+2024-05-13 14:41:09,842 - database - INFO - Database connection closed
+2024-05-13 14:41:09,842 - database - ERROR - Exception occurred: 'list' object has no attribute 'fetchall'
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_functions.py", line 14, in execute_query
+    results = cursor.fetchall()
+              ^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'fetchall'
+2024-05-13 14:48:04,268 - database - INFO - Database connection successful
+2024-05-13 14:48:04,270 - database - INFO - Query executed and results fetched successfully: 
+        SELECT Date, 
+               CompanyID AS 'Company ID', 
+               Open AS 'Stock Open', 
+               Close AS 'Stock Close', 
+               Volume AS 'Stock Volume'
+        FROM stock_data
+        WHERE CompanyID = %s
+        ORDER BY Date;
+    
+2024-05-13 14:48:04,270 - database - INFO - Database connection closed
+2024-05-13 14:48:04,270 - database - ERROR - Exception occurred: 'list' object has no attribute 'fetchall'
+Traceback (most recent call last):
+  File "D:\MS-OneDrive\OneDrive - MNSCU\HOME\Spring 2024\MIS 681 - Data Breaches Project\Dev\Projects\Strasbourg-Beta\database\db_functions.py", line 14, in execute_query
+    results = cursor.fetchall()
+              ^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'fetchall'
+2024-05-13 14:59:11,003 - database - INFO - Database connection successful
+2024-05-13 14:59:11,004 - database - INFO - Query executed and results fetched successfully: 
+        SELECT Date, 
+               CompanyID AS 'Company ID', 
+               Open AS 'Stock Open', 
+               Close AS 'Stock Close', 
+               Volume AS 'Stock Volume'
+        FROM stock_data
+        WHERE CompanyID = %s
+        ORDER BY Date;
+    
+2024-05-13 14:59:11,004 - database - INFO - Database connection closed
+2024-05-13 15:01:08,830 - database - INFO - Database connection successful
+2024-05-13 15:01:08,832 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+        x.CompanyID AS 'Company ID',
+        x.Open AS 'Stock Open',
+        x.Close AS 'Stock Close',
+        x.Volume AS 'Stock Volume',
+        y.Open AS 'Dow Jones Open',
+        y.Close AS 'Dow Jones Close',
+        y.Volume AS 'Dow Jones Volume'
+    FROM stock_data x
+        JOIN dow_jones y
+            ON y.Date = x.Date
+        WHERE CompanyID = %s
+        ORDER BY Date;
+    
+2024-05-13 15:01:08,833 - database - INFO - Database connection closed
+2024-05-13 15:02:40,070 - database - INFO - Database connection successful
+2024-05-13 15:02:40,072 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.CompanyID AS 'Company ID',
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-13 15:02:40,072 - database - INFO - Database connection closed
+2024-05-16 09:22:14,330 - database - INFO - Database connection successful
+2024-05-16 09:22:14,331 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:22:14,331 - database - INFO - Database connection closed
+2024-05-16 09:23:05,134 - database - INFO - Database connection successful
+2024-05-16 09:23:05,136 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:23:05,136 - database - INFO - Database connection closed
+2024-05-16 09:40:27,837 - database - INFO - Database connection successful
+2024-05-16 09:40:27,838 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:40:27,838 - database - INFO - Database connection closed
+2024-05-16 09:40:28,691 - database - INFO - Database connection successful
+2024-05-16 09:40:28,692 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:40:28,693 - database - INFO - Database connection closed
+2024-05-16 09:41:21,878 - database - INFO - Database connection successful
+2024-05-16 09:41:21,879 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:41:21,880 - database - INFO - Database connection closed
+2024-05-16 09:41:22,571 - database - INFO - Database connection successful
+2024-05-16 09:41:22,572 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:41:22,572 - database - INFO - Database connection closed
+2024-05-16 09:42:25,476 - database - INFO - Database connection successful
+2024-05-16 09:42:25,478 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:42:25,479 - database - INFO - Database connection closed
+2024-05-16 09:42:26,676 - database - INFO - Database connection successful
+2024-05-16 09:42:26,677 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:42:26,677 - database - INFO - Database connection closed
+2024-05-16 09:44:02,699 - database - INFO - Database connection successful
+2024-05-16 09:44:02,700 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:44:02,700 - database - INFO - Database connection closed
+2024-05-16 09:44:04,009 - database - INFO - Database connection successful
+2024-05-16 09:44:04,010 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:44:04,011 - database - INFO - Database connection closed
+2024-05-16 09:45:19,501 - database - INFO - Database connection successful
+2024-05-16 09:45:19,503 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:45:19,503 - database - INFO - Database connection closed
+2024-05-16 09:45:20,385 - database - INFO - Database connection successful
+2024-05-16 09:45:20,386 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:45:20,387 - database - INFO - Database connection closed
+2024-05-16 09:46:26,525 - database - INFO - Database connection successful
+2024-05-16 09:46:26,526 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:46:26,526 - database - INFO - Database connection closed
+2024-05-16 09:46:27,667 - database - INFO - Database connection successful
+2024-05-16 09:46:27,669 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:46:27,669 - database - INFO - Database connection closed
+2024-05-16 09:47:41,813 - database - INFO - Database connection successful
+2024-05-16 09:47:41,814 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:47:41,814 - database - INFO - Database connection closed
+2024-05-16 09:47:43,483 - database - INFO - Database connection successful
+2024-05-16 09:47:43,484 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:47:43,484 - database - INFO - Database connection closed
+2024-05-16 09:50:07,567 - database - INFO - Database connection successful
+2024-05-16 09:50:07,569 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:50:07,569 - database - INFO - Database connection closed
+2024-05-16 09:50:08,479 - database - INFO - Database connection successful
+2024-05-16 09:50:08,480 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:50:08,480 - database - INFO - Database connection closed
+2024-05-16 09:50:28,414 - database - INFO - Database connection successful
+2024-05-16 09:50:28,416 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:50:28,416 - database - INFO - Database connection closed
+2024-05-16 09:50:29,644 - database - INFO - Database connection successful
+2024-05-16 09:50:29,646 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:50:29,646 - database - INFO - Database connection closed
+2024-05-16 09:57:47,286 - database - INFO - Database connection successful
+2024-05-16 09:57:47,287 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:57:47,287 - database - INFO - Database connection closed
+2024-05-16 09:57:50,370 - database - INFO - Database connection successful
+2024-05-16 09:57:50,372 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:57:50,372 - database - INFO - Database connection closed
+2024-05-16 09:58:25,653 - database - INFO - Database connection successful
+2024-05-16 09:58:25,654 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:58:25,655 - database - INFO - Database connection closed
+2024-05-16 09:58:26,537 - database - INFO - Database connection successful
+2024-05-16 09:58:26,539 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:58:26,539 - database - INFO - Database connection closed
+2024-05-16 09:58:43,071 - database - INFO - Database connection successful
+2024-05-16 09:58:43,072 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:58:43,072 - database - INFO - Database connection closed
+2024-05-16 09:58:44,209 - database - INFO - Database connection successful
+2024-05-16 09:58:44,211 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:58:44,211 - database - INFO - Database connection closed
+2024-05-16 09:58:46,248 - database - INFO - Database connection successful
+2024-05-16 09:58:46,249 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:58:46,249 - database - INFO - Database connection closed
+2024-05-16 09:58:48,786 - database - INFO - Database connection successful
+2024-05-16 09:58:48,787 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:58:48,787 - database - INFO - Database connection closed
+2024-05-16 09:59:00,710 - database - INFO - Database connection successful
+2024-05-16 09:59:01,164 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 09:59:01,165 - database - INFO - Database connection closed
+2024-05-16 09:59:02,114 - database - INFO - Database connection successful
+2024-05-16 09:59:02,115 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 09:59:02,115 - database - INFO - Database connection closed
+2024-05-16 10:00:27,478 - database - INFO - Database connection successful
+2024-05-16 10:00:27,479 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:00:27,479 - database - INFO - Database connection closed
+2024-05-16 10:00:27,971 - database - INFO - Database connection successful
+2024-05-16 10:00:27,972 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:00:27,973 - database - INFO - Database connection closed
+2024-05-16 10:05:11,008 - database - INFO - Database connection successful
+2024-05-16 10:05:11,009 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:05:11,010 - database - INFO - Database connection closed
+2024-05-16 10:05:12,072 - database - INFO - Database connection successful
+2024-05-16 10:05:12,073 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:05:12,073 - database - INFO - Database connection closed
+2024-05-16 10:05:36,819 - database - INFO - Database connection successful
+2024-05-16 10:05:36,820 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:05:36,820 - database - INFO - Database connection closed
+2024-05-16 10:05:37,705 - database - INFO - Database connection successful
+2024-05-16 10:05:37,706 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:05:37,706 - database - INFO - Database connection closed
+2024-05-16 10:05:50,261 - database - INFO - Database connection successful
+2024-05-16 10:05:50,261 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:05:50,262 - database - INFO - Database connection closed
+2024-05-16 10:05:51,376 - database - INFO - Database connection successful
+2024-05-16 10:05:51,378 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:05:51,379 - database - INFO - Database connection closed
+2024-05-16 10:06:11,997 - database - INFO - Database connection successful
+2024-05-16 10:06:11,998 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:06:11,999 - database - INFO - Database connection closed
+2024-05-16 10:06:13,160 - database - INFO - Database connection successful
+2024-05-16 10:06:13,162 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:06:13,162 - database - INFO - Database connection closed
+2024-05-16 10:06:53,819 - database - INFO - Database connection successful
+2024-05-16 10:06:53,820 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:06:53,821 - database - INFO - Database connection closed
+2024-05-16 10:06:54,825 - database - INFO - Database connection successful
+2024-05-16 10:06:54,826 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:06:54,827 - database - INFO - Database connection closed
+2024-05-16 10:08:33,782 - database - INFO - Database connection successful
+2024-05-16 10:08:33,782 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:08:33,783 - database - INFO - Database connection closed
+2024-05-16 10:08:34,729 - database - INFO - Database connection successful
+2024-05-16 10:08:34,730 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:08:34,731 - database - INFO - Database connection closed
+2024-05-16 10:08:34,740 - database - INFO - Database connection successful
+2024-05-16 10:08:34,744 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.CompanyID AS 'Company ID',
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:08:34,744 - database - INFO - Database connection closed
+2024-05-16 10:17:04,887 - database - INFO - Database connection successful
+2024-05-16 10:17:04,888 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:17:04,889 - database - INFO - Database connection closed
+2024-05-16 10:17:05,913 - database - INFO - Database connection successful
+2024-05-16 10:17:05,915 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:17:05,915 - database - INFO - Database connection closed
+2024-05-16 10:17:05,929 - database - INFO - Database connection successful
+2024-05-16 10:17:05,931 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.CompanyID AS 'Company ID',
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:17:05,931 - database - INFO - Database connection closed
+2024-05-16 10:17:51,861 - database - INFO - Database connection successful
+2024-05-16 10:17:51,863 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:17:51,863 - database - INFO - Database connection closed
+2024-05-16 10:17:52,711 - database - INFO - Database connection successful
+2024-05-16 10:17:52,713 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:17:52,713 - database - INFO - Database connection closed
+2024-05-16 10:17:52,717 - database - INFO - Database connection successful
+2024-05-16 10:17:52,718 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.CompanyID AS 'Company ID',
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:17:52,718 - database - INFO - Database connection closed
+2024-05-16 10:18:51,622 - database - INFO - Database connection successful
+2024-05-16 10:18:51,624 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:18:51,624 - database - INFO - Database connection closed
+2024-05-16 10:18:52,488 - database - INFO - Database connection successful
+2024-05-16 10:18:52,489 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:18:52,490 - database - INFO - Database connection closed
+2024-05-16 10:18:52,498 - database - INFO - Database connection successful
+2024-05-16 10:18:52,499 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:18:52,499 - database - INFO - Database connection closed
+2024-05-16 10:22:38,046 - database - INFO - Database connection successful
+2024-05-16 10:22:38,047 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:22:38,047 - database - INFO - Database connection closed
+2024-05-16 10:22:38,808 - database - INFO - Database connection successful
+2024-05-16 10:22:38,810 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:22:38,810 - database - INFO - Database connection closed
+2024-05-16 10:22:38,814 - database - INFO - Database connection successful
+2024-05-16 10:22:38,816 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:22:38,816 - database - INFO - Database connection closed
+2024-05-16 10:22:51,545 - database - INFO - Database connection successful
+2024-05-16 10:22:51,546 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:22:51,546 - database - INFO - Database connection closed
+2024-05-16 10:22:52,256 - database - INFO - Database connection successful
+2024-05-16 10:22:52,258 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:22:52,258 - database - INFO - Database connection closed
+2024-05-16 10:22:52,262 - database - INFO - Database connection successful
+2024-05-16 10:22:52,263 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:22:52,263 - database - INFO - Database connection closed
+2024-05-16 10:37:26,764 - database - INFO - Database connection successful
+2024-05-16 10:37:26,766 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:37:26,766 - database - INFO - Database connection closed
+2024-05-16 10:37:27,816 - database - INFO - Database connection successful
+2024-05-16 10:37:27,818 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:37:27,818 - database - INFO - Database connection closed
+2024-05-16 10:37:27,822 - database - INFO - Database connection successful
+2024-05-16 10:37:27,823 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:37:27,823 - database - INFO - Database connection closed
+2024-05-16 10:40:25,240 - database - INFO - Database connection successful
+2024-05-16 10:40:25,241 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:40:25,241 - database - INFO - Database connection closed
+2024-05-16 10:40:26,344 - database - INFO - Database connection successful
+2024-05-16 10:40:26,346 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:40:26,346 - database - INFO - Database connection closed
+2024-05-16 10:40:26,352 - database - INFO - Database connection successful
+2024-05-16 10:40:26,354 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:40:26,354 - database - INFO - Database connection closed
+2024-05-16 10:43:17,036 - database - INFO - Database connection successful
+2024-05-16 10:43:17,037 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 10:43:17,038 - database - INFO - Database connection closed
+2024-05-16 10:43:17,920 - database - INFO - Database connection successful
+2024-05-16 10:43:17,921 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 10:43:17,922 - database - INFO - Database connection closed
+2024-05-16 10:43:17,927 - database - INFO - Database connection successful
+2024-05-16 10:43:17,928 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 10:43:17,929 - database - INFO - Database connection closed
+2024-05-16 11:02:55,586 - database - INFO - Database connection successful
+2024-05-16 11:02:55,587 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-16 11:02:55,588 - database - INFO - Database connection closed
+2024-05-16 11:02:57,479 - database - INFO - Database connection successful
+2024-05-16 11:02:57,481 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-16 11:02:57,481 - database - INFO - Database connection closed
+2024-05-16 11:02:57,485 - database - INFO - Database connection successful
+2024-05-16 11:02:57,486 - database - INFO - Query executed and results fetched successfully: 
+        SELECT 
+            x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-16 11:02:57,486 - database - INFO - Database connection closed
+2024-05-19 23:27:07,084 - database - INFO - Database connection successful
+2024-05-19 23:27:07,091 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-19 23:27:07,101 - database - INFO - Database connection closed
+2024-05-19 23:27:29,526 - database - INFO - Database connection successful
+2024-05-19 23:27:29,527 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-19 23:27:29,528 - database - INFO - Database connection closed
+2024-05-19 23:27:29,532 - database - INFO - Database connection successful
+2024-05-19 23:27:29,534 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-19 23:27:29,534 - database - INFO - Database connection closed
+2024-05-19 23:31:31,630 - database - INFO - Database connection successful
+2024-05-19 23:31:31,632 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-19 23:31:31,632 - database - INFO - Database connection closed
+2024-05-19 23:38:26,587 - database - INFO - Database connection successful
+2024-05-19 23:38:26,587 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-19 23:38:26,587 - database - INFO - Database connection closed
+2024-05-19 23:38:26,597 - database - INFO - Database connection successful
+2024-05-19 23:38:26,598 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-19 23:38:26,599 - database - INFO - Database connection closed
+2024-05-19 23:41:34,064 - database - INFO - Database connection successful
+2024-05-19 23:41:34,064 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-19 23:41:34,065 - database - INFO - Database connection closed
+2024-05-19 23:41:50,807 - database - INFO - Database connection successful
+2024-05-19 23:41:50,808 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-19 23:41:50,808 - database - INFO - Database connection closed
+2024-05-19 23:42:02,630 - database - INFO - Database connection successful
+2024-05-19 23:42:02,632 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-19 23:42:02,632 - database - INFO - Database connection closed
+2024-05-19 23:42:02,637 - database - INFO - Database connection successful
+2024-05-19 23:42:02,639 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-19 23:42:02,639 - database - INFO - Database connection closed
+2024-05-19 23:42:37,154 - database - INFO - Database connection successful
+2024-05-19 23:42:37,155 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-19 23:42:37,155 - database - INFO - Database connection closed
+2024-05-19 23:42:37,927 - database - INFO - Database connection successful
+2024-05-19 23:42:37,928 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-19 23:42:37,928 - database - INFO - Database connection closed
+2024-05-19 23:42:37,946 - database - INFO - Database connection successful
+2024-05-19 23:42:37,947 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-19 23:42:37,947 - database - INFO - Database connection closed
+2024-05-19 23:47:43,734 - database - INFO - Database connection successful
+2024-05-19 23:47:43,734 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-19 23:47:43,734 - database - INFO - Database connection closed
+2024-05-19 23:47:44,425 - database - INFO - Database connection successful
+2024-05-19 23:47:44,425 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-19 23:47:44,425 - database - INFO - Database connection closed
+2024-05-19 23:47:44,425 - database - INFO - Database connection successful
+2024-05-19 23:47:44,425 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-19 23:47:44,434 - database - INFO - Database connection closed
+2024-05-20 00:39:25,754 - database - INFO - Database connection successful
+2024-05-20 00:39:25,754 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-20 00:39:25,755 - database - INFO - Database connection closed
+2024-05-20 00:39:29,312 - database - INFO - Database connection successful
+2024-05-20 00:39:29,314 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 00:39:29,314 - database - INFO - Database connection closed
+2024-05-20 00:39:29,323 - database - INFO - Database connection successful
+2024-05-20 00:39:29,325 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 00:39:29,325 - database - INFO - Database connection closed
+2024-05-20 01:05:14,174 - database - INFO - Database connection successful
+2024-05-20 01:05:14,174 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-20 01:05:14,174 - database - INFO - Database connection closed
+2024-05-20 01:05:16,255 - database - INFO - Database connection successful
+2024-05-20 01:05:16,255 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 01:05:16,255 - database - INFO - Database connection closed
+2024-05-20 01:05:16,264 - database - INFO - Database connection successful
+2024-05-20 01:05:16,264 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 01:05:16,264 - database - INFO - Database connection closed
+2024-05-20 01:05:35,694 - database - INFO - Database connection successful
+2024-05-20 01:05:35,694 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-20 01:05:35,694 - database - INFO - Database connection closed
+2024-05-20 01:05:36,264 - database - INFO - Database connection successful
+2024-05-20 01:05:36,265 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 01:05:36,265 - database - INFO - Database connection closed
+2024-05-20 01:36:47,674 - database - INFO - Database connection successful
+2024-05-20 01:36:47,676 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 01:36:47,676 - database - INFO - Database connection closed
+2024-05-20 01:36:47,678 - database - INFO - Database connection successful
+2024-05-20 01:36:47,680 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 01:36:47,681 - database - INFO - Database connection closed
+2024-05-20 01:37:01,333 - database - INFO - Database connection successful
+2024-05-20 01:37:01,334 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 01:37:01,335 - database - INFO - Database connection closed
+2024-05-20 01:37:01,338 - database - INFO - Database connection successful
+2024-05-20 01:37:01,340 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 01:37:01,340 - database - INFO - Database connection closed
+2024-05-20 01:55:41,125 - database - INFO - Database connection successful
+2024-05-20 01:55:41,127 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 01:55:41,127 - database - INFO - Database connection closed
+2024-05-20 01:55:41,130 - database - INFO - Database connection successful
+2024-05-20 01:55:41,131 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 01:55:41,131 - database - INFO - Database connection closed
+2024-05-20 01:55:59,457 - database - INFO - Database connection successful
+2024-05-20 01:55:59,458 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 01:55:59,458 - database - INFO - Database connection closed
+2024-05-20 01:55:59,461 - database - INFO - Database connection successful
+2024-05-20 01:55:59,462 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 01:55:59,462 - database - INFO - Database connection closed
+2024-05-20 02:01:38,418 - database - INFO - Database connection successful
+2024-05-20 02:01:38,420 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 02:01:38,420 - database - INFO - Database connection closed
+2024-05-20 02:01:38,424 - database - INFO - Database connection successful
+2024-05-20 02:01:38,426 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 02:01:38,426 - database - INFO - Database connection closed
+2024-05-20 02:45:17,458 - database - INFO - Database connection successful
+2024-05-20 02:45:17,460 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 02:45:17,460 - database - INFO - Database connection closed
+2024-05-20 02:45:17,472 - database - INFO - Database connection successful
+2024-05-20 02:45:17,474 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 02:45:17,475 - database - INFO - Database connection closed
+2024-05-20 02:46:08,489 - database - INFO - Database connection successful
+2024-05-20 02:46:08,491 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 02:46:08,491 - database - INFO - Database connection closed
+2024-05-20 02:46:08,499 - database - INFO - Database connection successful
+2024-05-20 02:46:08,500 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 02:46:08,500 - database - INFO - Database connection closed
+2024-05-20 02:46:33,352 - database - INFO - Database connection successful
+2024-05-20 02:46:33,353 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 02:46:33,353 - database - INFO - Database connection closed
+2024-05-20 02:46:33,359 - database - INFO - Database connection successful
+2024-05-20 02:46:33,360 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 02:46:33,361 - database - INFO - Database connection closed
+2024-05-20 02:59:36,100 - database - INFO - Database connection successful
+2024-05-20 02:59:36,101 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 02:59:36,102 - database - INFO - Database connection closed
+2024-05-20 02:59:36,107 - database - INFO - Database connection successful
+2024-05-20 02:59:36,108 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 02:59:36,108 - database - INFO - Database connection closed
+2024-05-20 03:01:56,091 - database - INFO - Database connection successful
+2024-05-20 03:01:56,093 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:01:56,093 - database - INFO - Database connection closed
+2024-05-20 03:01:56,096 - database - INFO - Database connection successful
+2024-05-20 03:01:56,097 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:01:56,098 - database - INFO - Database connection closed
+2024-05-20 03:05:42,786 - database - INFO - Database connection successful
+2024-05-20 03:05:42,788 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:05:42,788 - database - INFO - Database connection closed
+2024-05-20 03:05:42,797 - database - INFO - Database connection successful
+2024-05-20 03:05:42,798 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:05:42,798 - database - INFO - Database connection closed
+2024-05-20 03:15:48,608 - database - INFO - Database connection successful
+2024-05-20 03:15:48,609 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:15:48,609 - database - INFO - Database connection closed
+2024-05-20 03:15:48,616 - database - INFO - Database connection successful
+2024-05-20 03:15:48,617 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:15:48,618 - database - INFO - Database connection closed
+2024-05-20 03:18:59,910 - database - INFO - Database connection successful
+2024-05-20 03:18:59,911 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:18:59,911 - database - INFO - Database connection closed
+2024-05-20 03:18:59,916 - database - INFO - Database connection successful
+2024-05-20 03:18:59,917 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:18:59,918 - database - INFO - Database connection closed
+2024-05-20 03:19:55,382 - database - INFO - Database connection successful
+2024-05-20 03:19:55,383 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:19:55,383 - database - INFO - Database connection closed
+2024-05-20 03:19:55,386 - database - INFO - Database connection successful
+2024-05-20 03:19:55,388 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:19:55,388 - database - INFO - Database connection closed
+2024-05-20 03:26:48,598 - database - INFO - Database connection successful
+2024-05-20 03:26:48,599 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:26:48,599 - database - INFO - Database connection closed
+2024-05-20 03:26:48,602 - database - INFO - Database connection successful
+2024-05-20 03:26:48,604 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:26:48,605 - database - INFO - Database connection closed
+2024-05-20 03:35:08,156 - database - INFO - Database connection successful
+2024-05-20 03:35:08,158 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:35:08,158 - database - INFO - Database connection closed
+2024-05-20 03:35:08,164 - database - INFO - Database connection successful
+2024-05-20 03:35:08,165 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:35:08,166 - database - INFO - Database connection closed
+2024-05-20 03:35:33,705 - database - INFO - Database connection successful
+2024-05-20 03:35:33,706 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:35:33,706 - database - INFO - Database connection closed
+2024-05-20 03:35:33,714 - database - INFO - Database connection successful
+2024-05-20 03:35:33,715 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:35:33,715 - database - INFO - Database connection closed
+2024-05-20 03:37:01,215 - database - INFO - Database connection successful
+2024-05-20 03:37:01,216 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:37:01,216 - database - INFO - Database connection closed
+2024-05-20 03:37:01,220 - database - INFO - Database connection successful
+2024-05-20 03:37:01,221 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:37:01,222 - database - INFO - Database connection closed
+2024-05-20 03:38:16,471 - database - INFO - Database connection successful
+2024-05-20 03:38:16,473 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:38:16,473 - database - INFO - Database connection closed
+2024-05-20 03:38:16,482 - database - INFO - Database connection successful
+2024-05-20 03:38:16,483 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:38:16,483 - database - INFO - Database connection closed
+2024-05-20 03:38:42,486 - database - INFO - Database connection successful
+2024-05-20 03:38:42,488 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:38:42,488 - database - INFO - Database connection closed
+2024-05-20 03:39:18,621 - database - INFO - Database connection successful
+2024-05-20 03:39:18,622 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:39:18,622 - database - INFO - Database connection closed
+2024-05-20 03:39:18,627 - database - INFO - Database connection successful
+2024-05-20 03:39:18,628 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:39:18,628 - database - INFO - Database connection closed
+2024-05-20 03:40:04,709 - database - INFO - Database connection successful
+2024-05-20 03:40:04,710 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:40:04,711 - database - INFO - Database connection closed
+2024-05-20 03:40:04,716 - database - INFO - Database connection successful
+2024-05-20 03:40:04,718 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:40:04,718 - database - INFO - Database connection closed
+2024-05-20 03:40:52,074 - database - INFO - Database connection successful
+2024-05-20 03:40:52,075 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:40:52,075 - database - INFO - Database connection closed
+2024-05-20 03:40:52,081 - database - INFO - Database connection successful
+2024-05-20 03:40:52,082 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:40:52,082 - database - INFO - Database connection closed
+2024-05-20 03:42:03,923 - database - INFO - Database connection successful
+2024-05-20 03:42:03,924 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:42:03,924 - database - INFO - Database connection closed
+2024-05-20 03:42:03,929 - database - INFO - Database connection successful
+2024-05-20 03:42:03,930 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:42:03,930 - database - INFO - Database connection closed
+2024-05-20 03:42:10,302 - database - INFO - Database connection successful
+2024-05-20 03:42:10,303 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:42:10,303 - database - INFO - Database connection closed
+2024-05-20 03:42:10,307 - database - INFO - Database connection successful
+2024-05-20 03:42:10,308 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:42:10,308 - database - INFO - Database connection closed
+2024-05-20 03:49:17,054 - database - INFO - Database connection successful
+2024-05-20 03:49:17,056 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-20 03:49:17,056 - database - INFO - Database connection closed
+2024-05-20 03:49:17,062 - database - INFO - Database connection successful
+2024-05-20 03:49:17,063 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-20 03:49:17,063 - database - INFO - Database connection closed
+2024-05-22 21:23:07,098 - database - INFO - Database connection successful
+2024-05-22 21:23:07,300 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-22 21:23:07,300 - database - INFO - Database connection closed
+2024-05-22 21:23:07,319 - database - INFO - Database connection successful
+2024-05-22 21:23:07,365 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-22 21:23:07,365 - database - INFO - Database connection closed
+2024-05-24 00:59:03,082 - database - INFO - Database connection successful
+2024-05-24 00:59:03,084 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 00:59:03,084 - database - INFO - Database connection closed
+2024-05-24 00:59:03,088 - database - INFO - Database connection successful
+2024-05-24 00:59:03,089 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 00:59:03,089 - database - INFO - Database connection closed
+2024-05-24 00:59:25,735 - database - INFO - Database connection successful
+2024-05-24 00:59:25,737 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 00:59:25,737 - database - INFO - Database connection closed
+2024-05-24 00:59:25,741 - database - INFO - Database connection successful
+2024-05-24 00:59:25,742 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 00:59:25,743 - database - INFO - Database connection closed
+2024-05-24 01:10:28,553 - database - INFO - Database connection successful
+2024-05-24 01:10:28,554 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:10:28,554 - database - INFO - Database connection closed
+2024-05-24 01:10:28,559 - database - INFO - Database connection successful
+2024-05-24 01:10:28,560 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:10:28,561 - database - INFO - Database connection closed
+2024-05-24 01:11:37,289 - database - INFO - Database connection successful
+2024-05-24 01:11:37,290 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:11:37,290 - database - INFO - Database connection closed
+2024-05-24 01:11:37,293 - database - INFO - Database connection successful
+2024-05-24 01:11:37,295 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:11:37,295 - database - INFO - Database connection closed
+2024-05-24 01:13:24,963 - database - INFO - Database connection successful
+2024-05-24 01:13:24,964 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:13:24,964 - database - INFO - Database connection closed
+2024-05-24 01:13:24,972 - database - INFO - Database connection successful
+2024-05-24 01:13:24,973 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:13:24,974 - database - INFO - Database connection closed
+2024-05-24 01:13:40,236 - database - INFO - Database connection successful
+2024-05-24 01:13:40,238 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:13:40,238 - database - INFO - Database connection closed
+2024-05-24 01:13:40,245 - database - INFO - Database connection successful
+2024-05-24 01:13:40,247 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:13:40,247 - database - INFO - Database connection closed
+2024-05-24 01:33:20,430 - database - INFO - Database connection successful
+2024-05-24 01:33:20,431 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:33:20,432 - database - INFO - Database connection closed
+2024-05-24 01:33:20,442 - database - INFO - Database connection successful
+2024-05-24 01:33:20,443 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:33:20,444 - database - INFO - Database connection closed
+2024-05-24 01:45:57,118 - database - INFO - Database connection successful
+2024-05-24 01:45:57,119 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:45:57,119 - database - INFO - Database connection closed
+2024-05-24 01:45:57,124 - database - INFO - Database connection successful
+2024-05-24 01:45:57,126 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:45:57,126 - database - INFO - Database connection closed
+2024-05-24 01:46:21,429 - database - INFO - Database connection successful
+2024-05-24 01:46:21,431 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:46:21,431 - database - INFO - Database connection closed
+2024-05-24 01:46:21,439 - database - INFO - Database connection successful
+2024-05-24 01:46:21,440 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:46:21,440 - database - INFO - Database connection closed
+2024-05-24 01:46:53,933 - database - INFO - Database connection successful
+2024-05-24 01:46:53,935 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:46:53,935 - database - INFO - Database connection closed
+2024-05-24 01:46:53,944 - database - INFO - Database connection successful
+2024-05-24 01:46:53,945 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:46:53,946 - database - INFO - Database connection closed
+2024-05-24 01:50:36,075 - database - INFO - Database connection successful
+2024-05-24 01:50:36,077 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:50:36,077 - database - INFO - Database connection closed
+2024-05-24 01:50:36,082 - database - INFO - Database connection successful
+2024-05-24 01:50:36,084 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:50:36,084 - database - INFO - Database connection closed
+2024-05-24 01:51:59,574 - database - INFO - Database connection successful
+2024-05-24 01:51:59,576 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 01:51:59,576 - database - INFO - Database connection closed
+2024-05-24 01:51:59,583 - database - INFO - Database connection successful
+2024-05-24 01:51:59,584 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 01:51:59,585 - database - INFO - Database connection closed
+2024-05-24 10:42:54,407 - database - INFO - Database connection successful
+2024-05-24 10:42:54,409 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 10:42:54,409 - database - INFO - Database connection closed
+2024-05-24 10:42:54,414 - database - INFO - Database connection successful
+2024-05-24 10:42:54,417 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 10:42:54,417 - database - INFO - Database connection closed
+2024-05-24 11:09:25,344 - database - INFO - Database connection successful
+2024-05-24 11:09:25,346 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 11:09:25,346 - database - INFO - Database connection closed
+2024-05-24 11:09:25,351 - database - INFO - Database connection successful
+2024-05-24 11:09:25,353 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 11:09:25,353 - database - INFO - Database connection closed
+2024-05-24 11:10:02,770 - database - INFO - Database connection successful
+2024-05-24 11:10:02,771 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 11:10:02,772 - database - INFO - Database connection closed
+2024-05-24 11:10:02,777 - database - INFO - Database connection successful
+2024-05-24 11:10:02,778 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 11:10:02,778 - database - INFO - Database connection closed
+2024-05-24 11:10:13,889 - database - INFO - Database connection successful
+2024-05-24 11:10:13,890 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 11:10:13,891 - database - INFO - Database connection closed
+2024-05-24 11:10:13,895 - database - INFO - Database connection successful
+2024-05-24 11:10:13,896 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 11:10:13,896 - database - INFO - Database connection closed
+2024-05-24 11:11:49,347 - database - INFO - Database connection successful
+2024-05-24 11:11:49,349 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 11:11:49,349 - database - INFO - Database connection closed
+2024-05-24 11:11:49,352 - database - INFO - Database connection successful
+2024-05-24 11:11:49,354 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 11:11:49,354 - database - INFO - Database connection closed
+2024-05-24 12:11:42,261 - database - INFO - Database connection successful
+2024-05-24 12:11:42,262 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 12:11:42,262 - database - INFO - Database connection closed
+2024-05-24 12:11:42,265 - database - INFO - Database connection successful
+2024-05-24 12:11:42,267 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 12:11:42,267 - database - INFO - Database connection closed
+2024-05-24 13:18:21,642 - database - INFO - Database connection successful
+2024-05-24 13:18:21,643 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 13:18:21,644 - database - INFO - Database connection closed
+2024-05-24 13:18:21,648 - database - INFO - Database connection successful
+2024-05-24 13:18:21,650 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 13:18:21,650 - database - INFO - Database connection closed
+2024-05-24 13:21:37,783 - database - INFO - Database connection successful
+2024-05-24 13:21:37,784 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 13:21:37,784 - database - INFO - Database connection closed
+2024-05-24 13:21:37,789 - database - INFO - Database connection successful
+2024-05-24 13:21:37,790 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 13:21:37,790 - database - INFO - Database connection closed
+2024-05-24 14:41:29,764 - database - INFO - Database connection successful
+2024-05-24 14:41:29,766 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 14:41:29,766 - database - INFO - Database connection closed
+2024-05-24 14:41:29,769 - database - INFO - Database connection successful
+2024-05-24 14:41:29,771 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 14:41:29,771 - database - INFO - Database connection closed
+2024-05-24 14:49:35,098 - database - INFO - Database connection successful
+2024-05-24 14:49:35,100 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 14:49:35,100 - database - INFO - Database connection closed
+2024-05-24 14:49:35,103 - database - INFO - Database connection successful
+2024-05-24 14:49:35,104 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 14:49:35,104 - database - INFO - Database connection closed
+2024-05-24 15:03:15,816 - database - INFO - Database connection successful
+2024-05-24 15:03:15,818 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:03:15,818 - database - INFO - Database connection closed
+2024-05-24 15:03:15,824 - database - INFO - Database connection successful
+2024-05-24 15:03:15,825 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 15:03:15,825 - database - INFO - Database connection closed
+2024-05-24 15:03:55,184 - database - INFO - Database connection successful
+2024-05-24 15:03:55,186 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:03:55,186 - database - INFO - Database connection closed
+2024-05-24 15:03:55,192 - database - INFO - Database connection successful
+2024-05-24 15:03:55,193 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 15:03:55,193 - database - INFO - Database connection closed
+2024-05-24 15:04:45,748 - database - INFO - Database connection successful
+2024-05-24 15:04:45,750 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:04:45,750 - database - INFO - Database connection closed
+2024-05-24 15:04:45,757 - database - INFO - Database connection successful
+2024-05-24 15:04:45,758 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 15:04:45,758 - database - INFO - Database connection closed
+2024-05-24 15:07:52,859 - database - INFO - Database connection successful
+2024-05-24 15:07:52,860 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:07:52,860 - database - INFO - Database connection closed
+2024-05-24 15:07:52,865 - database - INFO - Database connection successful
+2024-05-24 15:07:52,867 - database - INFO - Query executed and results fetched successfully: 
+        SELECT x.Date,
+            x.Open AS 'Stock Open',
+            x.Close AS 'Stock Close',
+            x.Volume AS 'Stock Volume',
+            y.Open AS 'Dow Jones Open',
+            y.Close AS 'Dow Jones Close',
+            y.Volume AS 'Dow Jones Volume'
+        FROM stock_data x
+        JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = %s
+        ORDER BY x.Date;
+    
+2024-05-24 15:07:52,867 - database - INFO - Database connection closed
+2024-05-24 15:30:47,100 - database - INFO - Database connection successful
+2024-05-24 15:30:47,101 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:30:47,102 - database - INFO - Database connection closed
+2024-05-24 15:31:00,501 - database - INFO - Database connection successful
+2024-05-24 15:31:00,502 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-24 15:31:00,502 - database - INFO - Database connection closed
+2024-05-24 15:32:36,205 - database - INFO - Database connection successful
+2024-05-24 15:32:36,206 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:32:36,206 - database - INFO - Database connection closed
+2024-05-24 15:37:22,082 - database - INFO - Database connection successful
+2024-05-24 15:37:22,083 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', 
+               CompanyName AS 'Name', 
+               Location AS 'Location', 
+               StockSymbol AS 'Stock Symbol'
+        FROM company_info
+        ORDER BY CompanyID;
+    
+2024-05-24 15:37:22,084 - database - INFO - Database connection closed
+2024-05-24 15:37:23,683 - database - INFO - Database connection successful
+2024-05-24 15:37:23,684 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-24 15:37:23,685 - database - INFO - Database connection closed
+2024-05-26 15:54:35,147 - database - INFO - Database connection successful
+2024-05-26 15:54:35,153 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 15:54:35,153 - database - INFO - Database connection closed
+2024-05-26 15:56:18,100 - database - INFO - Database connection successful
+2024-05-26 15:56:18,101 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 15:56:18,102 - database - INFO - Database connection closed
+2024-05-26 15:56:18,724 - database - INFO - Database connection successful
+2024-05-26 15:56:18,726 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 15:56:18,726 - database - INFO - Database connection closed
+2024-05-26 15:56:51,253 - database - INFO - Database connection successful
+2024-05-26 15:56:51,254 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 15:56:51,254 - database - INFO - Database connection closed
+2024-05-26 15:56:51,836 - database - INFO - Database connection successful
+2024-05-26 15:56:51,838 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 15:56:51,838 - database - INFO - Database connection closed
+2024-05-26 15:59:14,012 - database - INFO - Database connection successful
+2024-05-26 15:59:14,013 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 15:59:14,013 - database - INFO - Database connection closed
+2024-05-26 15:59:14,892 - database - INFO - Database connection successful
+2024-05-26 15:59:14,894 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 15:59:14,894 - database - INFO - Database connection closed
+2024-05-26 15:59:14,896 - database - INFO - Database connection successful
+2024-05-26 15:59:14,898 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 15:59:14,898 - database - INFO - Database connection closed
+2024-05-26 16:01:00,777 - database - INFO - Database connection successful
+2024-05-26 16:01:00,778 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:01:00,778 - database - INFO - Database connection closed
+2024-05-26 16:01:01,556 - database - INFO - Database connection successful
+2024-05-26 16:01:01,557 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:01:01,557 - database - INFO - Database connection closed
+2024-05-26 16:01:01,560 - database - INFO - Database connection successful
+2024-05-26 16:01:01,561 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:01:01,561 - database - INFO - Database connection closed
+2024-05-26 16:02:32,263 - database - INFO - Database connection successful
+2024-05-26 16:02:32,265 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:02:32,265 - database - INFO - Database connection closed
+2024-05-26 16:02:32,740 - database - INFO - Database connection successful
+2024-05-26 16:02:32,741 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:02:32,741 - database - INFO - Database connection closed
+2024-05-26 16:02:32,746 - database - INFO - Database connection successful
+2024-05-26 16:02:32,748 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:02:32,748 - database - INFO - Database connection closed
+2024-05-26 16:03:21,500 - database - INFO - Database connection successful
+2024-05-26 16:03:21,501 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:03:21,502 - database - INFO - Database connection closed
+2024-05-26 16:03:22,179 - database - INFO - Database connection successful
+2024-05-26 16:03:22,180 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:03:22,181 - database - INFO - Database connection closed
+2024-05-26 16:03:22,186 - database - INFO - Database connection successful
+2024-05-26 16:03:22,187 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:03:22,187 - database - INFO - Database connection closed
+2024-05-26 16:03:52,580 - database - INFO - Database connection successful
+2024-05-26 16:03:52,581 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:03:52,581 - database - INFO - Database connection closed
+2024-05-26 16:03:53,956 - database - INFO - Database connection successful
+2024-05-26 16:03:53,957 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:03:53,958 - database - INFO - Database connection closed
+2024-05-26 16:03:53,962 - database - INFO - Database connection successful
+2024-05-26 16:03:53,962 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:03:53,963 - database - INFO - Database connection closed
+2024-05-26 16:04:21,766 - database - INFO - Database connection successful
+2024-05-26 16:04:21,767 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:04:21,767 - database - INFO - Database connection closed
+2024-05-26 16:04:22,876 - database - INFO - Database connection successful
+2024-05-26 16:04:22,877 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:04:22,878 - database - INFO - Database connection closed
+2024-05-26 16:04:22,884 - database - INFO - Database connection successful
+2024-05-26 16:04:22,885 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:04:22,885 - database - INFO - Database connection closed
+2024-05-26 16:05:05,614 - database - INFO - Database connection successful
+2024-05-26 16:05:05,615 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:05:05,615 - database - INFO - Database connection closed
+2024-05-26 16:05:06,092 - database - INFO - Database connection successful
+2024-05-26 16:05:06,093 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:05:06,093 - database - INFO - Database connection closed
+2024-05-26 16:05:06,098 - database - INFO - Database connection successful
+2024-05-26 16:05:06,099 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:05:06,100 - database - INFO - Database connection closed
+2024-05-26 16:11:04,356 - database - INFO - Database connection successful
+2024-05-26 16:11:04,357 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:11:04,357 - database - INFO - Database connection closed
+2024-05-26 16:11:05,628 - database - INFO - Database connection successful
+2024-05-26 16:11:05,630 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:11:05,630 - database - INFO - Database connection closed
+2024-05-26 16:11:05,639 - database - INFO - Database connection successful
+2024-05-26 16:11:05,640 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:11:05,641 - database - INFO - Database connection closed
+2024-05-26 16:11:25,072 - database - INFO - Database connection successful
+2024-05-26 16:11:25,073 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:11:25,073 - database - INFO - Database connection closed
+2024-05-26 16:11:31,851 - database - INFO - Database connection successful
+2024-05-26 16:11:31,852 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:11:31,852 - database - INFO - Database connection closed
+2024-05-26 16:11:31,858 - database - INFO - Database connection successful
+2024-05-26 16:11:31,859 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:11:31,859 - database - INFO - Database connection closed
+2024-05-26 16:12:54,853 - database - INFO - Database connection successful
+2024-05-26 16:12:54,854 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:12:54,854 - database - INFO - Database connection closed
+2024-05-26 16:12:55,444 - database - INFO - Database connection successful
+2024-05-26 16:12:55,444 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:12:55,444 - database - INFO - Database connection closed
+2024-05-26 16:12:55,448 - database - INFO - Database connection successful
+2024-05-26 16:12:55,449 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:12:55,450 - database - INFO - Database connection closed
+2024-05-26 16:13:26,741 - database - INFO - Database connection successful
+2024-05-26 16:13:26,742 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:13:26,742 - database - INFO - Database connection closed
+2024-05-26 16:13:27,075 - database - INFO - Database connection successful
+2024-05-26 16:13:27,077 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:13:27,077 - database - INFO - Database connection closed
+2024-05-26 16:13:27,084 - database - INFO - Database connection successful
+2024-05-26 16:13:27,085 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:13:27,085 - database - INFO - Database connection closed
+2024-05-26 16:13:43,312 - database - INFO - Database connection successful
+2024-05-26 16:13:43,313 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:13:43,314 - database - INFO - Database connection closed
+2024-05-26 16:13:43,915 - database - INFO - Database connection successful
+2024-05-26 16:13:43,916 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:13:43,917 - database - INFO - Database connection closed
+2024-05-26 16:13:43,923 - database - INFO - Database connection successful
+2024-05-26 16:13:43,923 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:13:43,924 - database - INFO - Database connection closed
+2024-05-26 16:13:51,203 - database - INFO - Database connection successful
+2024-05-26 16:13:51,205 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:13:51,205 - database - INFO - Database connection closed
+2024-05-26 16:13:51,523 - database - INFO - Database connection successful
+2024-05-26 16:13:51,525 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:13:51,526 - database - INFO - Database connection closed
+2024-05-26 16:13:51,531 - database - INFO - Database connection successful
+2024-05-26 16:13:51,533 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:13:51,533 - database - INFO - Database connection closed
+2024-05-26 16:14:19,897 - database - INFO - Database connection successful
+2024-05-26 16:14:19,898 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:14:19,899 - database - INFO - Database connection closed
+2024-05-26 16:14:20,803 - database - INFO - Database connection successful
+2024-05-26 16:14:20,805 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:14:20,805 - database - INFO - Database connection closed
+2024-05-26 16:14:20,809 - database - INFO - Database connection successful
+2024-05-26 16:14:20,810 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:14:20,811 - database - INFO - Database connection closed
+2024-05-26 16:14:40,387 - database - INFO - Database connection successful
+2024-05-26 16:14:40,387 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:14:40,387 - database - INFO - Database connection closed
+2024-05-26 16:14:41,075 - database - INFO - Database connection successful
+2024-05-26 16:14:41,077 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:14:41,077 - database - INFO - Database connection closed
+2024-05-26 16:14:41,083 - database - INFO - Database connection successful
+2024-05-26 16:14:41,084 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:14:41,084 - database - INFO - Database connection closed
+2024-05-26 16:15:05,770 - database - INFO - Database connection successful
+2024-05-26 16:15:05,771 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:15:05,772 - database - INFO - Database connection closed
+2024-05-26 16:15:06,060 - database - INFO - Database connection successful
+2024-05-26 16:15:06,061 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:15:06,061 - database - INFO - Database connection closed
+2024-05-26 16:15:06,066 - database - INFO - Database connection successful
+2024-05-26 16:15:06,067 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:15:06,068 - database - INFO - Database connection closed
+2024-05-26 16:15:15,002 - database - INFO - Database connection successful
+2024-05-26 16:15:15,003 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:15:15,003 - database - INFO - Database connection closed
+2024-05-26 16:15:15,650 - database - INFO - Database connection successful
+2024-05-26 16:15:15,652 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:15:15,652 - database - INFO - Database connection closed
+2024-05-26 16:15:15,657 - database - INFO - Database connection successful
+2024-05-26 16:15:15,658 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:15:15,658 - database - INFO - Database connection closed
+2024-05-26 16:16:29,673 - database - INFO - Database connection successful
+2024-05-26 16:16:29,674 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:16:29,675 - database - INFO - Database connection closed
+2024-05-26 16:16:30,491 - database - INFO - Database connection successful
+2024-05-26 16:16:30,493 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:16:30,493 - database - INFO - Database connection closed
+2024-05-26 16:16:30,511 - database - INFO - Database connection successful
+2024-05-26 16:16:30,513 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:16:30,513 - database - INFO - Database connection closed
+2024-05-26 16:17:23,230 - database - INFO - Database connection successful
+2024-05-26 16:17:23,232 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:17:23,232 - database - INFO - Database connection closed
+2024-05-26 16:17:24,083 - database - INFO - Database connection successful
+2024-05-26 16:17:24,085 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:17:24,085 - database - INFO - Database connection closed
+2024-05-26 16:17:24,091 - database - INFO - Database connection successful
+2024-05-26 16:17:24,092 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:17:24,093 - database - INFO - Database connection closed
+2024-05-26 16:17:47,998 - database - INFO - Database connection successful
+2024-05-26 16:17:48,000 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:17:48,000 - database - INFO - Database connection closed
+2024-05-26 16:17:48,780 - database - INFO - Database connection successful
+2024-05-26 16:17:48,781 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:17:48,782 - database - INFO - Database connection closed
+2024-05-26 16:17:48,787 - database - INFO - Database connection successful
+2024-05-26 16:17:48,788 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:17:48,788 - database - INFO - Database connection closed
+2024-05-26 16:18:25,825 - database - INFO - Database connection successful
+2024-05-26 16:18:25,825 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:18:25,825 - database - INFO - Database connection closed
+2024-05-26 16:18:26,899 - database - INFO - Database connection successful
+2024-05-26 16:18:26,901 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:18:26,901 - database - INFO - Database connection closed
+2024-05-26 16:18:26,914 - database - INFO - Database connection successful
+2024-05-26 16:18:26,915 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:18:26,916 - database - INFO - Database connection closed
+2024-05-26 16:18:49,226 - database - INFO - Database connection successful
+2024-05-26 16:18:49,226 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-26 16:18:49,226 - database - INFO - Database connection closed
+2024-05-26 16:18:50,098 - database - INFO - Database connection successful
+2024-05-26 16:18:50,100 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-26 16:18:50,100 - database - INFO - Database connection closed
+2024-05-26 16:18:50,113 - database - INFO - Database connection successful
+2024-05-26 16:18:50,114 - database - INFO - Query executed and results fetched successfully: 
+        SELECT CompanyID AS 'Company ID', 
+               DisclosureDate AS 'Disclosure Date'
+        FROM data_breach_disclosures
+        WHERE CompanyID = %s
+        ORDER BY DisclosureDate;
+    
+2024-05-26 16:18:50,114 - database - INFO - Database connection closed
+2024-05-27 00:31:53,234 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 00:31:53,234 - database - INFO - Database connection closed
+2024-05-27 00:31:54,352 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 00:31:54,353 - database - INFO - Database connection closed
+2024-05-27 12:19:18,004 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 12:19:18,005 - database - INFO - Database connection closed
+2024-05-27 12:19:19,528 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 12:19:19,529 - database - INFO - Database connection closed
+2024-05-27 12:24:46,635 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 12:24:46,636 - database - INFO - Database connection closed
+2024-05-27 12:24:47,352 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 12:24:47,353 - database - INFO - Database connection closed
+2024-05-27 12:24:47,357 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 12:24:47,358 - database - INFO - Database connection closed
+2024-05-27 12:33:42,709 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 12:33:42,710 - database - INFO - Database connection closed
+2024-05-27 12:33:43,615 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 12:33:43,616 - database - INFO - Database connection closed
+2024-05-27 12:33:43,619 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 12:33:43,620 - database - INFO - Database connection closed
+2024-05-27 13:18:34,263 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:18:34,264 - database - INFO - Database connection closed
+2024-05-27 13:18:35,791 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:18:35,792 - database - INFO - Database connection closed
+2024-05-27 13:18:35,796 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:18:35,797 - database - INFO - Database connection closed
+2024-05-27 13:26:13,906 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:26:13,906 - database - INFO - Database connection closed
+2024-05-27 13:26:14,462 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:26:14,463 - database - INFO - Database connection closed
+2024-05-27 13:26:14,467 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:26:14,468 - database - INFO - Database connection closed
+2024-05-27 13:26:14,472 - database - ERROR - Error executing query: 1054 (42S22): Unknown column 'company_id' in 'where clause'
+2024-05-27 13:26:14,516 - database - INFO - Database connection closed
+2024-05-27 13:26:14,518 - database - ERROR - Error executing query: 1054 (42S22): Unknown column 'company_id' in 'where clause'
+2024-05-27 13:26:14,520 - database - INFO - Database connection closed
+2024-05-27 13:26:14,520 - database - ERROR - Error executing query: 1054 (42S22): Unknown column 'company_id' in 'where clause'
+2024-05-27 13:26:14,522 - database - INFO - Database connection closed
+2024-05-27 13:40:14,826 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:40:14,827 - database - INFO - Database connection closed
+2024-05-27 13:40:15,502 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:40:15,503 - database - INFO - Database connection closed
+2024-05-27 13:40:15,507 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:40:15,508 - database - INFO - Database connection closed
+2024-05-27 13:40:15,513 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+        FROM stock_data x
+        LEFT JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = 11 AND x.Date IN ('2018-09-28', '2019-04-03', '2021-04-03')
+        GROUP BY x.Date
+        ORDER BY x.Date;
+    
+2024-05-27 13:40:15,514 - database - INFO - Database connection closed
+2024-05-27 13:41:35,344 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:41:35,345 - database - INFO - Database connection closed
+2024-05-27 13:41:36,134 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:41:36,136 - database - INFO - Database connection closed
+2024-05-27 13:41:36,141 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:41:36,143 - database - INFO - Database connection closed
+2024-05-27 13:41:36,147 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+        FROM stock_data x
+        LEFT JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = 11 AND x.Date IN ('2018-09-28', '2019-04-03', '2021-04-03')
+        GROUP BY x.Date
+        ORDER BY x.Date;
+    
+2024-05-27 13:41:36,147 - database - INFO - Database connection closed
+2024-05-27 13:48:34,235 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:48:34,235 - database - INFO - Database connection closed
+2024-05-27 13:48:35,718 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:48:35,719 - database - INFO - Database connection closed
+2024-05-27 13:48:35,724 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:48:35,724 - database - INFO - Database connection closed
+2024-05-27 13:48:35,729 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+        FROM stock_data x
+        LEFT JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = 11 AND x.Date IN ('2018-09-28', '2019-04-03', '2021-04-03')
+        GROUP BY x.Date
+        ORDER BY x.Date;
+    
+2024-05-27 13:48:35,730 - database - INFO - Database connection closed
+2024-05-27 13:49:30,692 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:49:30,693 - database - INFO - Database connection closed
+2024-05-27 13:49:31,365 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:49:31,367 - database - INFO - Database connection closed
+2024-05-27 13:49:31,371 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:49:31,371 - database - INFO - Database connection closed
+2024-05-27 13:49:31,377 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+        FROM stock_data x
+        LEFT JOIN dow_jones y ON y.Date = x.Date
+        WHERE x.CompanyID = 11 AND x.Date IN ('2018-09-28', '2019-04-03', '2021-04-03')
+        GROUP BY x.Date
+        ORDER BY x.Date;
+    
+2024-05-27 13:49:31,378 - database - INFO - Database connection closed
+2024-05-27 13:56:48,106 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:56:48,107 - database - INFO - Database connection closed
+2024-05-27 13:56:48,733 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:56:48,734 - database - INFO - Database connection closed
+2024-05-27 13:56:48,737 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:56:48,738 - database - INFO - Database connection closed
+2024-05-27 13:56:48,742 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2018-09-28'
+            GROUP BY x.Date;
+        
+2024-05-27 13:56:48,743 - database - INFO - Database connection closed
+2024-05-27 13:56:48,744 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2019-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 13:56:48,744 - database - INFO - Database connection closed
+2024-05-27 13:56:48,746 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2021-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 13:56:48,746 - database - INFO - Database connection closed
+2024-05-27 13:57:25,441 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:57:25,442 - database - INFO - Database connection closed
+2024-05-27 13:57:25,902 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:57:25,902 - database - INFO - Database connection closed
+2024-05-27 13:57:25,908 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:57:25,909 - database - INFO - Database connection closed
+2024-05-27 13:57:25,915 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2018-09-28'
+            GROUP BY x.Date;
+        
+2024-05-27 13:57:25,916 - database - INFO - Database connection closed
+2024-05-27 13:57:25,917 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2019-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 13:57:25,917 - database - INFO - Database connection closed
+2024-05-27 13:57:25,918 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2021-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 13:57:25,918 - database - INFO - Database connection closed
+2024-05-27 13:57:47,688 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 13:57:47,689 - database - INFO - Database connection closed
+2024-05-27 13:57:48,229 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 13:57:48,230 - database - INFO - Database connection closed
+2024-05-27 13:57:48,234 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 13:57:48,235 - database - INFO - Database connection closed
+2024-05-27 13:57:48,241 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2018-09-28'
+            GROUP BY x.Date;
+        
+2024-05-27 13:57:48,242 - database - INFO - Database connection closed
+2024-05-27 13:57:48,243 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2019-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 13:57:48,243 - database - INFO - Database connection closed
+2024-05-27 13:57:48,244 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2021-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 13:57:48,245 - database - INFO - Database connection closed
+2024-05-27 14:13:16,742 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     ORDER BY CompanyID;
+2024-05-27 14:13:16,743 - database - INFO - Database connection closed
+2024-05-27 14:13:17,493 - database - INFO - Query executed in 0.00 seconds: 
+        SELECT CompanyID AS 'ID', CompanyName AS 'Name', Location AS 'Location', StockSymbol AS 'Stock Symbol'
+        FROM company_info
+     WHERE CompanyID = %s ORDER BY CompanyID;
+2024-05-27 14:13:17,495 - database - INFO - Database connection closed
+2024-05-27 14:13:17,499 - database - INFO - Query executed in 0.00 seconds: 
+    SELECT DisclosureDate AS 'Disclosure Date'
+    FROM data_breach_disclosures
+    WHERE CompanyID = %s
+    ORDER BY DisclosureDate ASC;
+    
+2024-05-27 14:13:17,500 - database - INFO - Database connection closed
+2024-05-27 14:13:17,507 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2018-09-28'
+            GROUP BY x.Date;
+        
+2024-05-27 14:13:17,508 - database - INFO - Database connection closed
+2024-05-27 14:13:17,510 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2019-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 14:13:17,510 - database - INFO - Database connection closed
+2024-05-27 14:13:17,511 - database - INFO - Query executed in 0.00 seconds: 
+            SELECT x.Date, COUNT(x.Date) > 0 AS HasStockData
+            FROM stock_data x
+            LEFT JOIN dow_jones y ON y.Date = x.Date
+            WHERE x.CompanyID = 11 AND x.Date = '2021-04-03'
+            GROUP BY x.Date;
+        
+2024-05-27 14:13:17,512 - database - INFO - Database connection closed
